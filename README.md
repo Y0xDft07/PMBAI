@@ -100,7 +100,7 @@ Bob,Manajemen Proyek, Scrum
 
 ## 📄 Lisensi
 
-[Lisensi MIT]()
+[Lisensi MIT](https://github.com/Y0xDft07/PMBAI/blob/main/LICENSE)
 
 ---
 
